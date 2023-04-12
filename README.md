@@ -1,4 +1,4 @@
-# lab5
+# lab6
 
 **_<p>Nama : Ridho Pikriyansyah</p>_**
 **_<p>Nim : 312110169</p>_**
